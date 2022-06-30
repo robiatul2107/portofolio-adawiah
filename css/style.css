@@ -215,7 +215,7 @@ header .follow a:hover {
 .about .row-1 {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 9.5rem;
   padding-bottom: 2rem;
 }
 
